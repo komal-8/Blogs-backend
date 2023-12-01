@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align-last: center;
+
+}
+ul{
+    border:1px solid black;
+    background-color: rgb(128, 255, 0);
+    padding: 5px;
+    margin-top: 3px;
+}
+li{
+    color:white;
+    list-style-type: none;
+    margin:3px;
+}
+li :nth-child(1){
+    float: right;
+}
